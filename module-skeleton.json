@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-evaluation-nuxt",
+  "capabilityKey": "liberusoftware/automation-evaluation",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-automation-evaluation-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/automation/nextjs/evaluation.md",
+  "presentationPlan": "projects/automation/nuxt/evaluation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
